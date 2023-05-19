@@ -13,7 +13,7 @@ Run driver.py File: <br />
     Also you can try other commends with "help" <br />
 
 UI-
-import dropdownmenu class and run function UI 
+import dropdownmenu class and run function UI (contributed by liyeh)
 
 build html:
 go under ./doc/
